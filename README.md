@@ -1,2 +1,2 @@
-[![Run on Repl.it](https://repl.it/badge/github/ARCTraining/quant-python-03-2022-replit)](https://repl.it/github/ARCTraining/quant-python-03-2022-replit)
+[![Run on Repl.it](https://github.com/Qa70601234/python-repl)](https://github.com/Qa70601234/python-repl)
 
